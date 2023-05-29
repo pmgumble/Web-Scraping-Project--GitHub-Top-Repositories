@@ -1,5 +1,13 @@
 # Web-Scraping-Project--GitHub-Top-Repositories
 
+ ## Problem statement
+
+The task is to scrape the top repositories on GitHub and extract the topics associated with each repository using the BeautifulSoup and requests libraries in Python. The goal is to obtain the repository names, URLs, and their corresponding topics by parsing the HTML content of the GitHub trending page and the topics pages for each repository. The code should responsibly handle the scraping process by complying with website terms of service and avoiding excessive requests that could overload the server.
+
+
+- **Tools**
+(Python, Rquest, BeautifulSoup, pandas)
+
 
 ![download](https://github.com/pmgumble/Web-Scraping-Project--GitHub-Top-Repositories/assets/96189065/c1989757-ccc2-4927-9f42-cf166bbbfc84)
 
@@ -55,13 +63,7 @@ GitHub is a web-based platform and a widely used version control system that all
 8. GitHub provides an intuitive web interface, but it also offers a command-line interface (CLI) and can be integrated into development environments through various client applications and plugins. It has become an essential platform for developers to showcase their work, collaborate with others, and contribute to the open-source ecosystem.
 
 
-- **Problem statement**
 
-The task is to scrape the top repositories on GitHub and extract the topics associated with each repository using the BeautifulSoup and requests libraries in Python. The goal is to obtain the repository names, URLs, and their corresponding topics by parsing the HTML content of the GitHub trending page and the topics pages for each repository. The code should responsibly handle the scraping process by complying with website terms of service and avoiding excessive requests that could overload the server.
-
-
-- **Tools**
-(Python, Rquest, BeautifulSoup, pandas)
 
 
 **Note** - 
